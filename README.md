@@ -2,6 +2,11 @@
 
 The application is built with [Bun](https://bun.sh/), [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/), [Next.js](https://nextjs.org/) and [Shadcn UI](https://ui.shadcn.com/).
 
+## 💡 Introduction
+This project is a database-backed inventory system to manage and visualize e-commerce sales and stock data. It aimed to streamline data updates, monitor key metrics in real time, and support data-driven ordering decisions.
+
+**(Note on Authorship): This repository is a derivative copy of the original team project. The code represents the combined efforts of the development team listed below. My primary contributions focused on UI, dashboard and database design**
+
 ## 🔧 Setup
 
 ```bash
